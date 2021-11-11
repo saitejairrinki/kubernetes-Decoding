@@ -1,0 +1,7 @@
+#Our Requirements
+!!! info "Requirements"
+    Configure CoreDNS with the domain name “groophy.org".
+
+    Each server can be resolve by any server in the cluster for that solution we are using CoreDNS with the host file.
+
+
