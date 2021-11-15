@@ -1,21 +1,19 @@
 # PROJECT INFORMATION
-site_name: CoreDNS
+site_name: Decoding Kubernetes
 site_description: 'This is the Documentation for CoreDNS'
 site_author: 'Imran Teli,Aqueel'
 repo_url: 'https://coredns.io/'
 repo_name: GitHub
-
+edit_url: " "
 # PAGE TREE 
 nav:
     - Home: index.md
-    - About: about.md
-    - Getting Started: getting_started.md
-    - Setup: setupv2.md  
-      #- Code: code.md
-      #- Test: test.md
-      #- Guide: 
-      # - reference: guide.md
-      # - content: test.md
+    - CoreDNS:  
+        About: about.md
+        Getting Started: getting_started.md
+        Setup: setupv2.md  
+    - Kubernetes: 
+        Kubernetes Setup With Backup and Restore Solution: k8s_backup_restore.md 
 # CONFIGURATION    
 theme:
   name: 'material'
