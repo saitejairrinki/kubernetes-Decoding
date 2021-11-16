@@ -270,7 +270,7 @@ velero get backup-locations --kubeconfig kubeconfig
     default   aws        kmvbucket       Available   2021-11-09 12:08:44 +0000 UTC   ReadWrite     true
     ```
 	
-#Backup & Restore: :material-database-refresh-outline:
+#Backup & Restore: :material-database-refresh-outline:{ .heart }
 ##Backup:	
 ###Creating a namespace and deployment in it.
 ####On Master01:
