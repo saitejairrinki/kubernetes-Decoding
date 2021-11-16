@@ -12,6 +12,7 @@ nav:
         About: about.md
         Getting Started: getting_started.md
         Setup: setupv2.md  
+    - DHCP: dhcp.md    
     - Kubernetes: 
         Kubernetes Setup With Backup and Restore Solution: k8s_backup_restore.md 
 # CONFIGURATION    
